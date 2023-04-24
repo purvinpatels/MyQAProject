@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNg Roicians]">
+  <test thread-count="5" name="Smoke(failed)">
+    <classes>
+      <class name="sel.TestSelenium">
+        <methods>
+          <include name="aftermethod"/>
+          <include name="Display"/>
+          <include name="driversetup"/>
+          <include name="initialsetup"/>
+          <include name="gettitle"/>
+          <include name="gmailtitle"/>
+        </methods>
+      </class> <!-- sel.TestSelenium -->
+    </classes>
+  </test> <!-- Smoke(failed) -->
+</suite> <!-- Failed suite [TestNg Roicians] -->

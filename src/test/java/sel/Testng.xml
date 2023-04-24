@@ -1,0 +1,15 @@
+<suite name="TestNg Roicians">
+<test name="TestN" allow-return-values="true">
+<classes>
+<class name="sel.Testn" />
+<class name="sel.TestNew" />
+<class name="sel.TestNew" />
+</classes>
+</test>
+<test name="Smoke" allow-return-values="true">
+<classes>
+<class name="sel.TestSelenium" />
+
+</classes>
+</test>
+</suite>
